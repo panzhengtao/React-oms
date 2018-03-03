@@ -1,0 +1,12 @@
+#root{height: 100%}
+.yks-login{background:url(../img/bac.jpg) no-repeat;background-size:cover;height:100%;overflow:hidden}
+
+.yks-login .login-form {
+    width: 280px;background: #fff; padding: 20px 20px 0px ; float: right; margin: 120px 100px 0px 0px
+}
+.yks-login .login-form-forgot {
+    float: right; margin-left: 15px;
+}
+.yks-login .login-form-button {
+    width: 100%;
+}

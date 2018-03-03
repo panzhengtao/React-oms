@@ -1,0 +1,57 @@
+.quiteState .ant-tag{
+    height: auto;
+    text-align: center;
+    line-height: 1.2;
+    padding: 3px 7px;
+    font-size: 14px;
+}
+.quiteState .ant-tag span{
+    display: block;
+}
+.table-smtlist .ant-table-tbody tr td{
+    padding: 16px 8px;
+    margin: 0;
+    position: relative;
+}
+.table-smtlist .ant-table-tbody td .flex{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+.table-smtlist .ant-table-tbody td .flex-items{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.table-smtlist .ant-table-tbody .flex-items li{
+    flex: 1;
+    display: flex;
+    padding-top: 5px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+ul.goodsInfo{
+    margin-bottom: -15px;
+}
+ul.goodsInfo li{
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.goodsInfo .img{
+    float: left;
+}
+.goodsInfo .info{
+    margin-left: 70px;
+}
+.goodsInfo .info a{
+    color: #4c5f70;
+}
+.goodsInfo .info .name {
+    height: 40px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}

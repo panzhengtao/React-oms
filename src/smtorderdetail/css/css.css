@@ -1,0 +1,22 @@
+.edit-trackid .ant-form-item{
+    margin-bottom: 10px;
+}
+.capital-detail .ant-table-tbody tr td{
+    text-align: center;
+}
+.goodsInfo .img{
+    float: left;
+}
+.goodsInfo .info{
+    margin-left: 70px;
+}
+.goodsInfo .info a{
+    color: #4c5f70;
+}
+.goodsInfo .info .name {
+    height: 40px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
